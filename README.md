@@ -15,17 +15,7 @@ A **console-based Student Management System** built using **Java** and **JDBC** 
 
 ---
 
-## 🏗️ **Project Structure**
 
-```
-├── src/
-│   ├── db/                 # Database connection code
-│   ├── model/              # Data models (Student, Course, Enrollment)
-│   ├── dao/                # DAO classes for CRUD operations
-│   ├── MainApp.java        # Main console application
-├── README.md               # Project Documentation
-├── schema.sql              # MySQL Database schema
-```
 
 ---
 
